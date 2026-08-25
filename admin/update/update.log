@@ -1,0 +1,3 @@
+[2025-09-20T00:11:57.779897-03:00] default.NOTICE: Checking for a new update... [] []
+[2025-09-20T00:11:57.782427-03:00] default.DEBUG: Get new updates from https://license.dropestore.com/update/update.json [] []
+[2025-09-20T00:11:58.089474-03:00] default.DEBUG: No new version available [] []
